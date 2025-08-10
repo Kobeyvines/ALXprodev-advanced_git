@@ -16,5 +16,5 @@ An empty repository named **`ALXprodev-advanced_git`** was created on GitHub.
 
 ### 3. Clone the Repository Locally
 ```bash
-git clone https://github.com/kobeyvines/ALXprodev-advanced_git.git
+git clone https://github.com/<your-username>/ALXprodev-advanced_git.git
 cd ALXprodev-advanced_git
